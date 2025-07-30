@@ -1,4 +1,4 @@
-# 💼 Keanu Moodley – Developer Portfolio
+#  Keanu Moodley – Developer Portfolio
 
 Welcome to my personal portfolio website!  
 This site showcases my journey as a computer science student and developer, highlighting real-world projects, certifications, and the skills I’ve gained through hands-on experience.
@@ -7,7 +7,7 @@ This site showcases my journey as a computer science student and developer, high
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Clean, responsive design with smooth scroll navigation
 - Downloadable CV
@@ -17,41 +17,41 @@ This site showcases my journey as a computer science student and developer, high
 
 ---
 
-## 📌 Projects & Highlights
+##  Projects & Highlights
 
-### ✅ Customer Journey Dashboard  
+###  Customer Journey Dashboard  
 Built an interactive customer behavior dashboard for BSG. Tracked engagement across touchpoints using JavaScript and visualized key data metrics.  
 🔗 [Live Demo](https://keanum123.github.io/customer-journey-dashboard/) | [View Code](https://github.com/KeanuM123/customer-journey-dashboard)
 
-### ✅ Onyx Logistics Website  
+###  Onyx Logistics Website  
 Designed and maintain a live commercial website for a car leasing company.  
 🔗 [Visit Site](https://onyxlogisticsa.com)
 
-### ✅ Linux Essentials Certification  
+###  Linux Essentials Certification  
 Certified in Linux fundamentals including shell scripting, file permissions, and command-line navigation.
 
-### ✅ Software Development Projects  
+###  Software Development Projects  
 Built Java and Python apps including a student management system and task tracker using object-oriented principles.
 
-### ✅ UNISA Academic Progress  
+###  UNISA Academic Progress  
 - BSc in Computing (UNISA), graduating 2024  
 - Web Dev: 85%, Java Programming: 78%, Databases: 82%, OS: 75%
 
-### ✅ Java Full Course  
+###  Java Full Course  
 Completed a full course covering OOP, GUI (JavaFX), exception handling, and file I/O.
 
-### ✅ Data Structures & Algorithms  
+###  Data Structures & Algorithms  
 Implemented stacks, queues, trees, and sorting/searching algorithms in Java and Python.
 
-### ✅ Full-Stack Development  
+###  Full-Stack Development  
 Built full-stack apps integrating front-end (HTML/CSS/JS) with back-end logic using Java and SQL.
 
-### ✅ Generative AI in Software Development  
+###  Generative AI in Software Development  
 Used ChatGPT and GitHub Copilot to accelerate coding, debug smarter, and auto-generate documentation.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Languages**: HTML, CSS, JavaScript, Python, Java, SQL, C++
 - **Tools**: Git, GitHub, VS Code, GitHub Pages, WordPress
@@ -60,7 +60,7 @@ Used ChatGPT and GitHub Copilot to accelerate coding, debug smarter, and auto-ge
 
 ---
 
-## 📄 How to Run Locally
+##  How to Run Locally
 
 ```bash
 git clone https://github.com/KeanuM123/portfolio.git
@@ -68,14 +68,14 @@ cd portfolio
 open index.html   # or right-click > Open with Live Server
 ```
 
-🧹 .gitignore
+ .gitignore
 This project includes a .gitignore file to exclude local config folders like .vscode/.
 
-📬 Contact
-📧 keanumoodley8@gmail.com
-📍 Sandton, Johannesburg
-🔗 LinkedIn
-🔗 GitHub
+ Contact
+ keanumoodley8@gmail.com
+ Sandton, Johannesburg
+ LinkedIn
+ GitHub
 
-📝 License
+ License
 This project is open-source under the MIT License.
