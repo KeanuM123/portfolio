@@ -584,3 +584,53 @@ img {
     width: 450px;
   }
 }
+/* 3D Floating Animated Background Circles */
+.bg-3d-circles {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw; height: 100vh;
+  pointer-events: none;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.bg-3d-circle {
+  position: absolute;
+  border-radius: 50%;
+  opacity: 0.18;
+  background: radial-gradient(circle at 30% 30%, #e10600 80%, #111 100%);
+  box-shadow: 0 8px 32px rgba(225,6,0,0.25), 0 2px 0 #111 inset;
+  animation: float3d 12s infinite ease-in-out alternate;
+}
+
+.bg-3d-circle:nth-child(1) {
+  width: 180px; height: 180px;
+  top: 10%; left: 8%;
+  animation-delay: 0s;
+}
+.bg-3d-circle:nth-child(2) {
+  width: 120px; height: 120px;
+  top: 60%; left: 75%;
+  animation-delay: 2s;
+}
+.bg-3d-circle:nth-child(3) {
+  width: 90px; height: 90px;
+  top: 35%; left: 50%;
+  animation-delay: 4s;
+}
+.bg-3d-circle:nth-child(4) {
+  width: 140px; height: 140px;
+  top: 80%; left: 20%;
+  animation-delay: 6s;
+}
+.bg-3d-circle:nth-child(5) {
+  width: 70px; height: 70px;
+  top: 25%; left: 85%;
+  animation-delay: 8s;
+}
+
+@keyframes float3d {
+  0%   { transform: translateY(0) scale(1) rotate(0deg); }
+  50%  { transform: translateY(-40px) scale(1.1) rotate(8deg); }
+  100% { transform: translateY(40px) scale(0.95) rotate(-8deg); }
+}
